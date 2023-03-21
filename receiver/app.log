@@ -1,0 +1,24 @@
+RECEIVER :: DEBUG – received event buy with trace id 82012390-e1d4-4210-8fff-3f0a52edbe05
+RECEIVER :: DEBUG – received event buy with trace id 0f296311-acee-4695-a1a5-487841bc74af
+RECEIVER :: DEBUG – Received response with trace id 0f296311-acee-4695-a1a5-487841bc74af, status code 404
+RECEIVER :: DEBUG – received event buy with trace id 0de5c69b-d440-4855-a8c8-eda0c2251bc3
+RECEIVER :: DEBUG – Received response with trace id 0de5c69b-d440-4855-a8c8-eda0c2251bc3, status code 404
+RECEIVER :: DEBUG – received event buy with trace id 1db05f73-de95-493c-ad98-f3fc70fe2f88
+RECEIVER :: DEBUG – Received response with trace id 1db05f73-de95-493c-ad98-f3fc70fe2f88, status code 201
+RECEIVER :: DEBUG – received event buy with trace id 82ab0125-9fd2-4273-a05e-6ca179d38475
+RECEIVER :: DEBUG – Received response with trace id 82ab0125-9fd2-4273-a05e-6ca179d38475, status code 201
+RECEIVER :: DEBUG – received event buy with trace id eb3babff-cdc2-469b-8d3a-9920ae3b79a2
+RECEIVER :: DEBUG – Received response with trace id eb3babff-cdc2-469b-8d3a-9920ae3b79a2, status code 201
+RECEIVER :: DEBUG – Received buy event with trace id 495c6c73-d05d-4f9c-ac9e-7843b1acbe2c
+RECEIVER :: DEBUG – Received buy event with trace id b873e84d-9ca5-4aa9-ad84-5b0b9ab8f013
+RECEIVER :: DEBUG – PRODUCER::producing <class 'dict'> event
+RECEIVER :: DEBUG – b'{"type": "buy", "datetime": "2023-02-21T09:42:45Z", "payload": {"buy_id": "d290f1ee-6c54-4b01-90e6-d701748f0851", "buy_qty": 1, "item_name": "Item 1", "item_price": 19.99, "trace_id": "b873e84d-9ca5-4aa9-ad84-5b0b9ab8f013"}}'
+RECEIVER :: DEBUG – Received buy event with trace id d5b10f3d-5d3f-4e66-a628-20d66506c658
+RECEIVER :: DEBUG – PRODUCER::producing <class 'dict'> event
+RECEIVER :: DEBUG – b'{"type": "buy", "datetime": "2023-02-21T10:05:49Z", "payload": {"buy_id": "d290f1ee-6c54-4b01-90e6-d701748f0851", "buy_qty": 1, "item_name": "Item 1", "item_price": 19.99, "trace_id": "d5b10f3d-5d3f-4e66-a628-20d66506c658"}}'
+RECEIVER :: DEBUG – Received buy event with trace id 99c169e6-389d-458c-bd3e-5a1e13c2128a
+RECEIVER :: DEBUG – PRODUCER::producing <class 'dict'> event
+RECEIVER :: DEBUG – b'{"type": "buy", "datetime": "2023-02-21T10:07:55Z", "payload": {"buy_id": "227", "item_name": "random item3", "item_price": 2, "buy_qty": 1, "trace_id": "99c169e6-389d-458c-bd3e-5a1e13c2128a"}}'
+RECEIVER :: DEBUG – Received buy event with trace id 6e64c452-f98c-4d62-a8cc-be2b234eac8a
+RECEIVER :: DEBUG – PRODUCER::producing <class 'dict'> event
+RECEIVER :: DEBUG – b'{"type": "buy", "datetime": "2023-02-21T10:17:03Z", "payload": {"buy_id": "d290f1ee-6c54-4b01-90e6-d701748f0851", "buy_qty": 1, "item_name": "Item 1", "item_price": 19.98, "trace_id": "6e64c452-f98c-4d62-a8cc-be2b234eac8a"}}'

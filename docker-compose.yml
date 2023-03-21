@@ -1,0 +1,27 @@
+version: '2'
+services:
+  receiver: 
+    build: ./receiver
+    networks:
+      - network1
+    ports:
+      - 8080:8080
+
+  storage:
+    build: ./storage
+    networks:
+      - network1
+    ports:
+      - 8090:8090
+
+  processing:
+    build: ./processing
+    networks:
+      - network1
+    ports:
+      - 8100:8100
+
+networks:
+  network1:
+    name: kafka_default
+    external: true

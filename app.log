@@ -1,0 +1,114 @@
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 2023-01-22T00:00:00Z# of results: 3
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 2023-01-22T00:00:00Z # of results: 0
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 2023-01-22T00:00:00Z # of results: 0
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 2023-01-22T00:00:00Z # of results: 0
+RECEIVER :: DEBUG – received event sell with trace id 116407bf-92ab-4d91-825e-65efc4efb8e0
+RECEIVER :: DEBUG – Received response with trace id 116407bf-92ab-4d91-825e-65efc4efb8e0, status code 204
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 2023-01-22T00:00:00Z # of results: 1
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 1970-01-01T00:00:00Z # of results: 3
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 1970-01-01T00:00:00Z # of results: 3
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 1970-01-01T00:00:00Z # of results: 3
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 1970-01-01T00:00:00Z # of results: 3
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 1970-01-01T00:00:00Z # of results: 3
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 1970-01-01T00:00:00Z # of results: 3
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 1970-01-01T00:00:00Z # of results: 3
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 1970-01-01T00:00:00Z # of results: 3
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 1970-01-01T00:00:00Z # of results: 3
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 1970-01-01T00:00:00Z # of results: 3
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 1970-01-01T00:00:00Z # of results: 3
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 1970-01-01T00:00:00Z # of results: 3
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 1970-01-01T00:00:00Z # of results: 1
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 1970-01-01T00:00:00Z # of results: 3
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 1970-01-01T00:00:00Z # of results: 1
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 1970-01-01T00:00:00Z # of results: 3
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 1970-01-01T00:00:00Z # of results: 1
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 1970-01-01T00:00:00Z # of results: 3
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 1970-01-01T00:00:00Z # of results: 1
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 1970-01-01T00:00:00Z # of results: 3
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 1970-01-01T00:00:00Z # of results: 1
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 1970-01-01T00:00:00Z # of results: 3
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 1970-01-01T00:00:00Z # of results: 1
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 1970-01-01T00:00:00Z # of results: 3
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 1970-01-01T00:00:00Z # of results: 1
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 1970-01-01T00:00:00Z # of results: 3
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 1970-01-01T00:00:00Z # of results: 1
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 2023-01-31T10:51: # of results: 0
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 2023-01-31T10:51: # of results: 0
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 2023-01-31T10:51: # of results: 0
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 2023-01-31T10:51: # of results: 0
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 2023-01-31T10:51: # of results: 0
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 2023-01-31T10:51: # of results: 0
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 2023-01-31T10:51: # of results: 0
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 2023-01-31T10:51: # of results: 0
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 2023-01-31T10:51: # of results: 0
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 2023-01-31T10:51: # of results: 0
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 2023-01-31T10:51: # of results: 0
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 2023-01-31T10:51: # of results: 0
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 2023-01-31T10:51: # of results: 0
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 2023-01-31T10:51: # of results: 0
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 2023-01-31T10:51: # of results: 0
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 2023-01-31T10:51: # of results: 0
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 2023-01-31T10:51: # of results: 0
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 2023-01-31T10:51: # of results: 1
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 2023-01-31T10:51: # of results: 1
+RECEIVER :: DEBUG – received event sell with trace id 46d6efed-47ac-41a9-881b-6085cb4117b9
+RECEIVER :: DEBUG – Received response with trace id 46d6efed-47ac-41a9-881b-6085cb4117b9, status code 204
+RECEIVER :: DEBUG – received event sell with trace id a8e617ef-1ca6-46ba-8645-e0669e910366
+RECEIVER :: DEBUG – Received response with trace id a8e617ef-1ca6-46ba-8645-e0669e910366, status code 204
+RECEIVER :: DEBUG – received event sell with trace id 374b31eb-7a25-4b73-8383-756e4a892282
+RECEIVER :: DEBUG – Received response with trace id 374b31eb-7a25-4b73-8383-756e4a892282, status code 204
+RECEIVER :: DEBUG – received event buy with trace id 4b097217-baf1-470c-8fd2-96aa64708c0b
+RECEIVER :: DEBUG – Received response with trace id 4b097217-baf1-470c-8fd2-96aa64708c0b, status code 201
+RECEIVER :: DEBUG – received event buy with trace id 7e79ce4c-98dd-40be-b511-25c9ec71c7b3
+RECEIVER :: DEBUG – Received response with trace id 7e79ce4c-98dd-40be-b511-25c9ec71c7b3, status code 201
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 2023-01-31T10:51: # of results: 0
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 2023-01-31T10:51: # of results: 0
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 2023-01-31T10:51: # of results: 0
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 2023-01-31T10:51: # of results: 0
+[1;32;20mPROCESSING :: DEBUG [0mBegin processing
+STORAGE :: DEBUG – Succesfully get from get_buys. Timestamp: 2023-01-31T11:32:12Z # of results: 0
+STORAGE :: DEBUG – Succesfully get from get_sells. Timestamp: 2023-01-31T11:32:12Z # of results: 0
